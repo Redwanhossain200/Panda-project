@@ -262,14 +262,8 @@
    border-radius: 8px;
  }
 
- /* Footer  */
- footer {
-   text-align: center;
-   padding: 18px 0;
-   color: #666;
- }
 
-  /* RESPONSIVE  */
+ /* RESPONSIVE  */
  @media (max-width: 992px) {
 
    .grid-3,
@@ -312,7 +306,12 @@
    }
  }
 
-  /* FOOTER  */
+ /* Footer  */
+ footer {
+   text-align: center;
+   padding: 18px 0;
+   color: #666;
+ }
 
  .footer {
    background: #f4f4f4;
@@ -369,7 +368,7 @@
    margin-bottom: 8px;
  }
 
-  /* Social Icons  */
+ /* Social Icons  */
 
  .social-icons {
    display: flex;
